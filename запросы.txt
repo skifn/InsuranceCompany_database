@@ -1,0 +1,64 @@
+create table Клиент (
+ID Integer NOT NULL PRIMARY KEY IDENTITY(1,1), 
+Эл_почта varchar(50),
+Пароль varchar(50),
+Фамилия varchar(50),
+Имя varchar(50),
+Отчество varchar(50),
+Номер_полиса varchar(50),
+Статус char(3)
+)
+
+create table Компания (
+ID Integer NOT NULL PRIMARY KEY IDENTITY(1,1), 
+Эл_почта varchar(50),
+Пароль varchar(50),
+Наименование varchar(50),
+Реквизиты varchar(50),
+Адрес varchar(50),
+Номер_телефона varchar(50),
+Статус char(3)
+)
+
+create table Работа_Компании (
+ID Integer NOT NULL PRIMARY KEY IDENTITY(1,1), 
+Наименование varchar(50),
+Вид_страхования varchar(50)
+)
+
+create table Иски (
+ID Integer NOT NULL PRIMARY KEY IDENTITY(1,1), 
+Фамилия_клиента varchar(50),
+Номер_полиса varchar(50),
+Название_компании varchar(50),
+Вид_страх varchar(50),
+Сумма_страх Integer,
+Дата_страх varchar(50),
+Сумма_иска varchar(50),
+Дата_иска varchar(50),
+Статус varchar(50)
+)
+
+create table Страхование (
+ID Integer NOT NULL PRIMARY KEY IDENTITY(1,1), 
+Фамилия_клиента varchar(50),
+Номер_полиса varchar(50),
+Название_компании varchar(50),
+Вид_страх varchar(50),
+Сумма_страх Integer,
+Дата_страх varchar(50),
+Статус varchar(50)
+)
+
+create table Вид_страхования (
+ID Integer NOT NULL PRIMARY KEY IDENTITY(1,1), 
+Вид varchar(50)
+)
+
+insert into Вид_страхования (Вид) values ('Медицинская')
+insert into Вид_страхования (Вид) values ('Несчастные случаи')
+insert into Вид_страхования (Вид) values ('Средства наземного транспорта')
+insert into Вид_страхования (Вид) values ('Имущество')
+insert into Вид_страхования (Вид) values ('Грузы')
+insert into Вид_страхования (Вид) values ('Гражданская ответственность')
+insert into Вид_страхования (Вид) values ('Риски')

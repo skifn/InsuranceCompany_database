@@ -1,0 +1,38 @@
+C:\Users\Лидия\Desktop\БД\Страховые Иски\bin\Debug\Страховые Иски.exe.config
+C:\Users\Лидия\Desktop\БД\Страховые Иски\bin\Debug\Страховые Иски.exe
+C:\Users\Лидия\Desktop\БД\Страховые Иски\bin\Debug\Страховые Иски.pdb
+C:\Users\Лидия\Desktop\БД\Страховые Иски\obj\Debug\Страховые Иски.csprojAssemblyReference.cache
+C:\Users\Лидия\Desktop\БД\Страховые Иски\obj\Debug\Страховые_Иски.Menu.resources
+C:\Users\Лидия\Desktop\БД\Страховые Иски\obj\Debug\Страховые_Иски.Menu_reg.resources
+C:\Users\Лидия\Desktop\БД\Страховые Иски\obj\Debug\Страховые_Иски.Properties.Resources.resources
+C:\Users\Лидия\Desktop\БД\Страховые Иски\obj\Debug\Страховые Иски.csproj.GenerateResource.cache
+C:\Users\Лидия\Desktop\БД\Страховые Иски\obj\Debug\Страховые Иски.csproj.CoreCompileInputs.cache
+C:\Users\Лидия\Desktop\БД\Страховые Иски\obj\Debug\Страховые Иски.exe
+C:\Users\Лидия\Desktop\БД\Страховые Иски\obj\Debug\Страховые Иски.pdb
+C:\Users\Дима\Desktop\Страховые Иски\bin\Debug\Страховые Иски.exe.config
+C:\Users\Дима\Desktop\Страховые Иски\bin\Debug\Страховые Иски.exe
+C:\Users\Дима\Desktop\Страховые Иски\bin\Debug\Страховые Иски.pdb
+C:\Users\Дима\Desktop\Страховые Иски\obj\Debug\Страховые Иски.csproj.AssemblyReference.cache
+C:\Users\Дима\Desktop\Страховые Иски\obj\Debug\Страховые_Иски.Klient.resources
+C:\Users\Дима\Desktop\Страховые Иски\obj\Debug\Страховые_Иски.Menu.resources
+C:\Users\Дима\Desktop\Страховые Иски\obj\Debug\Страховые_Иски.Menu_reg.resources
+C:\Users\Дима\Desktop\Страховые Иски\obj\Debug\Страховые_Иски.Properties.Resources.resources
+C:\Users\Дима\Desktop\Страховые Иски\obj\Debug\Страховые Иски.csproj.GenerateResource.cache
+C:\Users\Дима\Desktop\Страховые Иски\obj\Debug\Страховые Иски.csproj.CoreCompileInputs.cache
+C:\Users\Дима\Desktop\Страховые Иски\obj\Debug\Страховые Иски.exe
+C:\Users\Дима\Desktop\Страховые Иски\obj\Debug\Страховые Иски.pdb
+C:\Users\Дима\Desktop\Страховые Иски\obj\Debug\Страховые_Иски.Company.resources
+C:\Users\Никита\Desktop\Базы данных\Курсовой проект по БД\COURSE_PROJECT_BD\Страховые Иски\bin\Debug\Страховые Иски.exe.config
+C:\Users\Никита\Desktop\Базы данных\Курсовой проект по БД\COURSE_PROJECT_BD\Страховые Иски\bin\Debug\Страховые Иски.exe
+C:\Users\Никита\Desktop\Базы данных\Курсовой проект по БД\COURSE_PROJECT_BD\Страховые Иски\bin\Debug\Страховые Иски.pdb
+C:\Users\Никита\Desktop\Базы данных\Курсовой проект по БД\COURSE_PROJECT_BD\Страховые Иски\obj\Debug\Страховые Иски.csproj.AssemblyReference.cache
+C:\Users\Никита\Desktop\Базы данных\Курсовой проект по БД\COURSE_PROJECT_BD\Страховые Иски\obj\Debug\Страховые Иски.csproj.SuggestedBindingRedirects.cache
+C:\Users\Никита\Desktop\Базы данных\Курсовой проект по БД\COURSE_PROJECT_BD\Страховые Иски\obj\Debug\Страховые_Иски.Company.resources
+C:\Users\Никита\Desktop\Базы данных\Курсовой проект по БД\COURSE_PROJECT_BD\Страховые Иски\obj\Debug\Страховые_Иски.Klient.resources
+C:\Users\Никита\Desktop\Базы данных\Курсовой проект по БД\COURSE_PROJECT_BD\Страховые Иски\obj\Debug\Страховые_Иски.Menu.resources
+C:\Users\Никита\Desktop\Базы данных\Курсовой проект по БД\COURSE_PROJECT_BD\Страховые Иски\obj\Debug\Страховые_Иски.Menu_reg.resources
+C:\Users\Никита\Desktop\Базы данных\Курсовой проект по БД\COURSE_PROJECT_BD\Страховые Иски\obj\Debug\Страховые_Иски.Properties.Resources.resources
+C:\Users\Никита\Desktop\Базы данных\Курсовой проект по БД\COURSE_PROJECT_BD\Страховые Иски\obj\Debug\Страховые Иски.csproj.GenerateResource.cache
+C:\Users\Никита\Desktop\Базы данных\Курсовой проект по БД\COURSE_PROJECT_BD\Страховые Иски\obj\Debug\Страховые Иски.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\Базы данных\Курсовой проект по БД\COURSE_PROJECT_BD\Страховые Иски\obj\Debug\Страховые Иски.exe
+C:\Users\Никита\Desktop\Базы данных\Курсовой проект по БД\COURSE_PROJECT_BD\Страховые Иски\obj\Debug\Страховые Иски.pdb
